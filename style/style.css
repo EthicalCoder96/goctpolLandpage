@@ -199,6 +199,8 @@ section .right__sec__land{
     /* background-color: #fff; */
     height: 100vh;
     margin: 10px auto;
+    box-shadow: 0 0 20px rgb(20, 20, 20);
+    padding: 20px;
 }
 .short__info__div .images__div{
     height: 100%;
@@ -210,4 +212,12 @@ section .right__sec__land{
 }
 .short__info__div .image__short{
     background-color: red;
+}
+.short__info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    margin-left: 30px;
+    font-size: 5em;
 }
