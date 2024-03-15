@@ -121,7 +121,7 @@ h1{
     background-repeat: no-repeat;
 }
 .first__div .img__sec{
-    background-image: url('../media/_Business\ People\ Having\ A\ Meeting\ And\ Eating\ Sushi_\ by\ Stocksy\ Contributor\ _Studio\ Firma_.jpeg');
+    background-image: url('../media/Premium\ Photo\ _\ Happy\ male\ chef\ in\ white\ uniform\ offering\ delicious\ dishes.jpeg');
 }
 .second__div .img__sec{
     background-image: url('../media/Outdoor\ Cafè_\ Designer\ Furniture\ for\ Bars\,\ Restaurants\,\ Hotels\,\ and\ Public\ Open\ Spaces.jpeg');
@@ -234,4 +234,12 @@ h1{
 }
 footer{
     text-align: center;
+}
+
+button{
+    transition: 500ms;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 4px 4px 10px rgba(190, 190, 190, 0.99);
 }
